@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:iniciando/pages/consultas.dart';
+import 'package:queue_manager/pages/consultas.dart';
 // import 'package:iniciando/pages/consultas.dart';
 
 void main() => runApp(MyApp());

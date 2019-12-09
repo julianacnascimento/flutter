@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:iniciando/main.dart';
+import 'package:queue_manager/main.dart';
 
 class Consultas extends StatefulWidget {
   @override
