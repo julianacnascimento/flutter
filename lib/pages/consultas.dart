@@ -105,7 +105,7 @@ class _ConsultasState extends State<Consultas> {
                     color: Colors.green,
                     onPressed: () {},
                     child: Text(
-                      'Cadastrar',
+                      'Cadastrar Consulta',
                       style: TextStyle(color: Colors.white),
                     ),
                   ),
